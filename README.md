@@ -1,6 +1,6 @@
 # 2D Sprite Game - Unity Project
 
-This is a beginner-level 2D sprite game implemented in Unity as part of my learning journey in game development. It marks my first working project and is a step in my exploration of Unity.
+This is a beginner-level 2D sprite game implemented in Unity as part of my learning journey in game development. It marks my first working project.
 
 I have uploaded a Build of the Project 
 
@@ -13,7 +13,7 @@ I have uploaded a Build of the Project
 
 2. **Controls:**
    - **Movement:** Use `W`, `A`, `S`, `D` or the `Arrow Keys` to move the player.
-   - **Jump:** Press the `Space Bar` to make the player jump, you can also make him like the flappy bird.
+   - **Jump:** Press the `Space Bar` to make the player jump; you can also make him like the flappy bird.
    - **Shoot:** Use the `Left CTRL` or `Right CTRL` keys to shoot bullets.
 
 Enjoy exploring the 2D world and engaging with its very funny and naive mechanics!
@@ -23,8 +23,8 @@ Enjoy exploring the 2D world and engaging with its very funny and naive mechanic
 ## Features
 
 - **2D Sprite Gameplay:** Navigate through one of the smallest 2D level with simple and intuitive controls.
-- **Jump and Shoot Mechanics:** Player can jump over obstacles and shoot round colorful bullets for no reason.
-- **Keyboard Controls:** Designed for easy use with common keyboard inputs.
+- **Jump and Shoot Mechanics:** Player can jump over obstacles and shoot around colorful bullets for no reason.
+- **Keyboard Controls:** Designed with common keyboard inputs for easy use.
 
 ---
 
